@@ -1,4 +1,4 @@
-# Ticketswap available ticket alert 
+# Ticketswap ticket alert 
 An alerting tool (chrome extension ver.) that monitors a ticketswap event page, it checks the avaiable ticket amount, it sends a chrome notification if it finds available tickets.
 
 ## User Guide
